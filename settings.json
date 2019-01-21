@@ -1,0 +1,26 @@
+{
+    "editor.fontSize": 15,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "SauceCodePro Nerd Font",
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorCustomizations" : {
+        "terminal.ansiBlack": "#000000",
+        "terminal.ansiRed": "#f58e8e",
+        "terminal.ansiGreen": "#a9d38d",
+        "terminal.ansiYellow": "#ffd37f",
+        "terminal.ansiBlue": "#7aabd4",
+        "terminal.ansiMagenta": "#d6add5",
+        "terminal.ansiCyan": "#79d4d5",
+        "terminal.ansiWhite": "#ffffff",
+        "terminal.ansiBrightBlack": "#000000",
+        "terminal.ansiBrightRed": "#f58e8e",
+        "terminal.ansiBrightGreen": "#a9d38d",
+        "terminal.ansiBrightYellow": "#ffd37f",
+        "terminal.ansiBrightBlue": "#7aabd4",
+        "terminal.ansiBrightMagenta": "#d6add5",
+        "terminal.ansiBrightCyan": "#79d4d5",
+        "terminal.ansiBrightWhite": "#ffffff",
+    }
+}
